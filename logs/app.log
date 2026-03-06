@@ -1,0 +1,12 @@
+[2024-11-01 08:12:04] [INFO] Application started - CorpFlow v2.4.1
+[2024-11-01 08:15:32] [INFO] User login: admin@corpflow.io from 192.168.1.10
+[2024-11-01 09:02:11] [INFO] User login: demo@corpflow.io from 10.0.0.45
+[2024-11-01 09:45:00] [DEBUG] DB query: SELECT * FROM users WHERE email = 'admin@corpflow.io'
+[2024-11-01 10:11:22] [INFO] File uploaded: report_q3_2024.pdf by user_id=1
+[2024-11-01 11:30:05] [ERROR] Failed login attempt: unknown@test.com from 203.0.113.42
+[2024-11-01 14:00:00] [INFO] Cron: backup started (secret: b4ckup_cr0n_s3cr3t)
+[2024-11-01 14:00:03] [INFO] Cron: backup completed -> backups/backup_2024-11-01_14-00-00.sql
+[2024-11-02 09:15:23] [DEBUG] Password reset token generated for demo@corpflow.io: a3d2f9e1b5c7...
+[2024-11-02 10:22:11] [WARNING] Upload rejected: shell.php (type: application/x-php)
+[2024-11-02 11:01:35] [INFO] Admin panel accessed by user_id=1
+[2024-11-03 13:45:12] [DEBUG] API token generated for user_id=2: cf_api_7f3a9b...

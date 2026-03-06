@@ -1,0 +1,2 @@
+Options -Indexes
+# TODO: bloquear execução de PHP após migração para nginx (ticket CF-388)
